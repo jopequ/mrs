@@ -2,6 +2,8 @@
 
 This repo contains code for refine the Ultral-Wideband ranging with the detected spatial information of an object seen by multiple robots at the same time.
 
+![](./tb_ros2_zenoh.png)  
+
 If you find the code or data in this repository useful in your research, [the related paper is available in our website](https://tiers.utu.fi/paper/xianjia2023loosely):
   ```
   @article{xianjia2023loosely, 
